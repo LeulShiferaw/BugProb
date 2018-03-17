@@ -1,0 +1,9 @@
+Bug World
+
+Phase 1 Contributors: Zihan Qi & Matius Chairani
+
+Progress:
+* Implemented test cases on all functions 
+* Implemented Bug functionality (partial)
+* Implemented Cell functionality (partial)
+* Implemented World functionality (partial)
