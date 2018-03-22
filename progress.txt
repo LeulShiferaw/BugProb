@@ -1,6 +1,8 @@
 Bug World
 
-Phase 1 Contributors: Zihan Qi & Matius Chairani
+Phase 1 Contributors: Empty Repo
+
+Phase 2 Contributors: Leul Shiferaw & Matius Chairani
 
 Progress:
 * Implemented test cases on all functions 

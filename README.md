@@ -1,14 +1,20 @@
 # Bug World
 
 **Software Engineering**
+
 Jacobs University, Spring Semester 2018
+
 Prof. Dr. Peter Baumann
 
 ## Contributors
 
 ### Phase 1
 
-**Zihan Qi** zi.qi@jacobs-university.de 
+Empty repository
+
+### Phase 2
+
+**Leul Shiferaw** l.shiferaw@jacobs-university.de
 
 **Matius Chairani** m.chairani@jacobs-university.de
 
